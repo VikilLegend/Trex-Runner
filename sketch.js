@@ -24,7 +24,7 @@ function preload(){
   trex_running = loadAnimation("trex_2.png","trex_1.png","trex_3.png");
   trex_collided = loadAnimation("trex_collided.png");
   
-  groundImage = loadImage("/ground.png");
+  groundImage = loadImage("ground.png");
   
   cloudImage = loadImage("cloud.png");
   
